@@ -18,4 +18,4 @@ class ProjectInput {
     }
 }
 
-const prInput = new ProjectInput()
+const prjInput = new ProjectInput()
