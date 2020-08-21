@@ -71,9 +71,17 @@
   #finished-projects {
     border-color: #0044ff;
   }
+
+  #active-projects {
+    border-color: #1da819;
+  }
   
   #finished-projects header {
     background: #0044ff;
+  }
+
+  #active-projects header {
+    background: #1da819;
   }
   
   .projects h2 {
@@ -101,6 +109,12 @@
   #finished-projects li h2 {
     color: #0044ff;
   }
+
+  #active-projects li h2 {
+    color: #1da819;
+  }
+
+  
   
   .projects li h3 {
     color: #575757;
