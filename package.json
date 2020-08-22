@@ -1,14 +1,19 @@
 {
-  "name": "draganddropapp",
+  "name": "understanding-typescript",
   "version": "1.0.0",
-  "description": "",
-  "main": "dist/app.js",
+  "description": "Understanding TypeScript drag and drop sample project",
+  "main": "app.js",
   "scripts": {
-    "start": "node dist/app.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
   },
-  "author": "",
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "Edgar Martinez",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^3.9.7"
+    "lite-server": "^2.5.4"
   }
 }
